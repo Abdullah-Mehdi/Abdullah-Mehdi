@@ -58,17 +58,17 @@
 - Real-time collaboration features with user authentication and session management
 - Built with React, Vite, MongoDB, Python, Flask, and Gemini API
 
-### 🎮 Fall Guys
-**Innovative Fall Detection System (Spring 2024)**
-- Developed an innovative fall detection system with a web-hosted front-end
-- Integrating computer vision to analyze camera input and trigger automated emergency SMS alerts via Twilio
-- Built with Python, OpenCV, MediaPipe, Twilio, React, and Flask
-
 ### 🏃 Code Rush
 **Gamified Coding Platform (Fall 2024)**
 - Crafted a gamified coding platform for real-time, competitive problem-solving
 - Helps users enhance coding skills and simulate technical interview scenarios
 - Built with Java, JavaScript, SQL (MySQL), React, and Docker
+  
+### 🎮 Fall Guys
+**Innovative Fall Detection System (Spring 2024)**
+- Developed an innovative fall detection system with a web-hosted front-end
+- Integrating computer vision to analyze camera input and trigger automated emergency SMS alerts via Twilio
+- Built with Python, OpenCV, MediaPipe, Twilio, React, and Flask
 
 ---
 
