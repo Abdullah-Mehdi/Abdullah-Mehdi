@@ -15,7 +15,8 @@
 ## 🚀 About Me
 
 🎓 **Software Engineering Student** at George Mason University (GPA: 3.88/4.00)  
-💼 **Lead Quality Assurance Tester** at Ahmadiya Muslim Community  
+💼 **Software Engineer Intern** at MapLarge (Current)  
+🔍 **Lead Quality Assurance Tester** at Ahmadiya Muslim Community  
 🔬 **Undergraduate Researcher** in AI Ethics and Governance  
 🏆 **Outstanding Teaching Assistant Award** recipient  
 📍 **Based in Tysons, VA**
@@ -45,23 +46,29 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 [NASA Space Explorer](https://abdullah-mehdi.github.io/07-nasa-space-explorer/)
-**Advanced JavaScript application showcasing space exploration**
-- Interactive space mission dashboard
-- Real-time NASA API integration
-- Modern ES6+ features and responsive design
+### 🚀 [NASA Space Explorer](https://github.com/Abdullah-Mehdi/NASA-Space-Explorer)
+**Interactive Web Application Showcasing NASA's APOD (Fall 2025)**
+- Interactive web application showcasing NASA's Astronomy Picture of the Day (APOD) with advanced features
+- Including 3D tilt animations, modal previews, theme toggle, space facts, and smart API key management
+- Built with JavaScript ES6+, CSS3 Animations, NASA APOD API, Web Share API, and Local Storage
 
 ### 📚 StudyEZ
-**Collaborative study platform for students**
-- Real-time collaboration features
-- MongoDB database integration
-- User authentication and session management
+**Full-Stack Lecture Assistant Platform (Spring 2025)**
+- Built a full-stack lecture assistant leveraging AssemblyAI and Gemini API to automate transcription, summarization, and resource discovery for uploaded media
+- Real-time collaboration features with user authentication and session management
+- Built with React, Vite, MongoDB, Python, Flask, and Gemini API
 
-### 🎮 Code Rush & Fall Guys Clone
-**Game development projects**
-- Interactive gaming experiences
-- Advanced JavaScript mechanics
-- Creative problem-solving implementations
+### 🎮 Fall Guys
+**Innovative Fall Detection System (Spring 2024)**
+- Developed an innovative fall detection system with a web-hosted front-end
+- Integrating computer vision to analyze camera input and trigger automated emergency SMS alerts via Twilio
+- Built with Python, OpenCV, MediaPipe, Twilio, React, and Flask
+
+### 🏃 Code Rush
+**Gamified Coding Platform (Fall 2024)**
+- Crafted a gamified coding platform for real-time, competitive problem-solving
+- Helps users enhance coding skills and simulate technical interview scenarios
+- Built with Java, JavaScript, SQL (MySQL), React, and Docker
 
 ---
 
@@ -88,10 +95,11 @@
 
 ## 📈 Experience Timeline
 
-**2025 - Present** → Lead Quality Assurance Tester @ Ahmadiya Muslim Community  
-**2025** → Software Engineering Intern @ MapLarge  
-**Ongoing** → Undergraduate Researcher @ George Mason University  
-**Ongoing** → Teaching Assistant @ George Mason University  
+**June 2025 - Present** → Lead Quality Assurance Tester @ Ahmadiya Muslim Community  
+**May 2025 - Present** → Software Engineer Intern @ MapLarge  
+**Jan 2025 - May 2025** → Undergraduate Teaching Assistant @ George Mason University  
+**Sept 2024 - Present** → Undergraduate Researcher @ George Mason University  
+**Mar 2022 - Sept 2023** → Software Intern @ TechIcon Inc.  
 
 ---
 
