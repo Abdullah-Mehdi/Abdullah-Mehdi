@@ -45,7 +45,7 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 [NASA Space Explorer](https://github.com/Abdullah-Mehdi/NASA-Space-Explorer)
+### 🚀 [NASA Space Explorer](https://abdullah-mehdi.github.io/07-nasa-space-explorer/)
 **Advanced JavaScript application showcasing space exploration**
 - Interactive space mission dashboard
 - Real-time NASA API integration
