@@ -118,7 +118,7 @@
 
 <div align="center">
   
-**"Building the future, one line of code at a time"** ✨
+**"Code is poetry written in logic, dreams compiled into reality"** ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Mehdi&color=9D4EDD&style=for-the-badge)
 
