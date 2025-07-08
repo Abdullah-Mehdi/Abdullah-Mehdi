@@ -101,7 +101,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-ali-100127300/)
 [![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmehdiemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E0AAFF?style=for-the-badge&logo=google-chrome&logoColor=black)]([https://abdullah-mehdi.github.io/AbdullahAli/)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-E0AAFF?style=for-the-badge&logo=google-chrome&logoColor=black)]([https://abdullah-mehdi.github.io/AbdullahAli/)
 
 </div>
 
