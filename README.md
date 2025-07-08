@@ -46,7 +46,7 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 [NASA Space Explorer](https://github.com/Abdullah-Mehdi/NASA-Space-Explorer)
+### 🚀 [NASA Space Explorer](https://abdullah-mehdi.github.io/07-nasa-space-explorer/)
 **Interactive Web Application Showcasing NASA's APOD (Fall 2025)**
 - Interactive web application showcasing NASA's Astronomy Picture of the Day (APOD) with advanced features
 - Including 3D tilt animations, modal previews, theme toggle, space facts, and smart API key management
