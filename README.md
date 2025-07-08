@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abdullah Ali
+# Hellooo! 👋 I'm Abdullah Ali, or "Abby" :)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdullah-Mehdi/Abdullah-Mehdi/main/AbdullahAli.jpg" alt="Abdullah Ali" width="200" style="border-radius: 50%; margin: 20px;">
