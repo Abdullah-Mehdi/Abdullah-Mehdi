@@ -47,7 +47,7 @@
 ## 🌟 Featured Projects
 
 ### 🤖 [L'Oreal Chatbot](https://github.com/Abdullah-Mehdi/L-Oreal-Chatbot)
-**Production-Ready AI Beauty Assistant with GPT-4o Integration**
+**Production-Ready AI Beauty Assistant with GPT-4o Integration (Summer 2025)**
 - Sophisticated beauty consultant using OpenAI GPT-4o with conversation context tracking and user profile persistence
 - Modern chat interface with real-time bubbles, typing indicators, and authentic L'Oréal branding 
 - CloudFlare Workers backend, local storage persistence, mobile-first responsive design, and comprehensive privacy controls
