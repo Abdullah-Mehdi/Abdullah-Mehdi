@@ -46,6 +46,13 @@
 
 ## 🌟 Featured Projects
 
+### 🤖 [L'Oreal Chatbot](https://github.com/Abdullah-Mehdi/L-Oreal-Chatbot)
+**Production-Ready AI Beauty Assistant with GPT-4o Integration**
+- Sophisticated beauty consultant using OpenAI GPT-4o with conversation context tracking and user profile persistence
+- Modern chat interface with real-time bubbles, typing indicators, and authentic L'Oréal branding 
+- CloudFlare Workers backend, local storage persistence, mobile-first responsive design, and comprehensive privacy controls
+- Built with Vanilla JavaScript, CSS3 Flexbox, HTML5, and advanced AI conversation memory features
+
 ### 🚀 [NASA Space Explorer](https://github.com/Abdullah-Mehdi/NASA_Space_Explorer)
 **Interactive Web Application Showcasing NASA's APOD (Summer 2025)**
 - Interactive web application showcasing NASA's Astronomy Picture of the Day (APOD) with advanced features
