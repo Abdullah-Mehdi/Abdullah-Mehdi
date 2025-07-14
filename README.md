@@ -16,7 +16,7 @@
 
 Hey there! I'm an undergraduate software engineering student who's passionate about building things - and ideally building things that matter. I am researching AI ethics for GMU, have built Discord bots for friends, developed seemingly relevant projects for hackathons such as fall detection software with an instant call feature for the elderly, and just build things for the companies I work with and classes I take.
 
-When I'm not coding, you'll find me pursuing some new hobby. I like to listen to music, consume visual and written media, make various forms of writtena and visual art, participate in various sports and games, play various single player and multiplayer video games, and socialize.
+When I'm not coding, you'll find me pursuing some new hobby. I like to listen to music, consume visual and written media, make various forms of written and visual art, participate in various sports and games, play various single player and multiplayer video games, and socialize.
 
 <div align="center">
 
