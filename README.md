@@ -1,4 +1,4 @@
-# Hellooo... 👋👋 My name is Abdullah/Abby :)
+# Hellooo... 👋👋 :)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdullah-Mehdi/Abdullah-Mehdi/main/AbdullahAli.jpg" alt="Abdullah Ali" width="200" style="border-radius: 50%; margin: 20px;">
@@ -6,46 +6,16 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=60&lines=Software+Engineering+Student;Full-Stack+Developer;Quality+Assurance+Leader;AI+Ethics+Researcher;Existential+Dread+Haver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;AI+Ethics+Researcher;Existential+Dread+Haver)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-Hey there! I'm an undergraduate software engineering student who's passionate about building things - and ideally building things that matter. I am researching AI ethics for GMU, have built Discord bots for friends, developed seemingly relevant projects for hackathons such as fall detection software with an instant call feature for the elderly, and just build things for the companies I work with and classes I take.
-
-When I'm not coding, you'll find me pursuing some new hobby. I like to listen to music, consume visual and written media, make various forms of written and visual art, participate in various sports and games, play various single player and multiplayer video games, and socialize.
-
-<div align="center">
-
-**🔗 Want to see my technical expertise in action?**
-
-[![Portfolio](https://img.shields.io/badge/🌟_Check_Out_My_Portfolio-E0AAFF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://abdullah-mehdi.github.io/AbdullahAli/)
-
-*All my projects, experience, and technical skills are showcased there!*
-
-</div>
-
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-E0AAFF?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-C77DFF?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-B19CD9?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-E0AAFF?style=for-the-badge&logo=cplusplus&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-C77DFF?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Technologies
-![React](https://img.shields.io/badge/React-B19CD9?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-9D4EDD?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-E0AAFF?style=for-the-badge&logo=mongodb&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-C77DFF?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-B19CD9?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-9D4EDD?style=for-the-badge&logo=amazon-aws&logoColor=white)
+Basically anything~ 
+(I work off GitHub too so...)
 
 ---
 
@@ -70,18 +40,6 @@ When I'm not coding, you'll find me pursuing some new hobby. I like to listen to
 [![Discord](https://img.shields.io/badge/Discord-B19CD9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/290216737348124682)
 
 </div>
-
----
-
-## 💭 More About Me
-
-🌌 I love space-themed designs and cosmic aesthetics  
-🎨 Passionate about pixel art and retro gaming visuals  
-🤖 Fascinated by AI ethics and responsible technology development   
-🎯 Currently working on AI governance research at GMU  
-☕ Fueled by lattes, existential dread, curiosity, and existential dread!  
-
----
 
 <div align="center">
   
