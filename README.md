@@ -12,14 +12,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-Basically anything~ 
-
-(I work off GitHub too so...)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -41,6 +33,8 @@ Basically anything~
 [![Discord](https://img.shields.io/badge/Discord-B19CD9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/290216737348124682)
 
 </div>
+
+---
 
 <div align="center">
   
