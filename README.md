@@ -29,8 +29,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-ali-100127300/)
-[![Email](https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmehdiemail@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-B19CD9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/290216737348124682)
 
 </div>
 
