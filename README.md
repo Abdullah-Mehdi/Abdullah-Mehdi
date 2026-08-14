@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A2b1b47%2C50%3A7B2CBF%2C100%3AE0AAFF&text=%E2%9C%A6%20%CB%9A%20%EF%BD%A1%20%E2%8B%86%20abdullah%20%E2%8B%86%20%EF%BD%A1%20%CB%9A%20%E2%9C%A6&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A2b1b47%2C50%3A7B2CBF%2C100%3AE0AAFF&text=%E2%9C%A6%20%CB%9A%20%EF%BD%A1%20%E2%8B%86%20Abdullah%20%E2%8B%86%20%EF%BD%A1%20%CB%9A%20%E2%9C%A6&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="header" />
 
 <img src="https://raw.githubusercontent.com/Abdullah-Mehdi/Abdullah-Mehdi/main/AbdullahAli.jpg" alt="Abdullah Ali" width="180" />
 
