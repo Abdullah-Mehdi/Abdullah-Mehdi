@@ -12,12 +12,15 @@
 
 <p>･ ｡ ☆ ∴｡　　･ﾟ*｡★･ 　∴｡　　･ﾟ*｡☆ ･ ｡ ☆ ∴｡</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah-Mehdi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C77DFF&icon_color=E0AAFF&text_color=CDB4DB&ring_color=9D4EDD" height="165" alt="stats" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdullah-Mehdi&layout=compact&hide_border=true&bg_color=0d1117&title_color=C77DFF&text_color=CDB4DB" height="165" alt="languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=Abdullah-Mehdi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C77DFF&icon_color=E0AAFF&text_color=CDB4DB&ring_color=9D4EDD" height="165" alt="stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdullah-Mehdi&layout=compact&hide_border=true&bg_color=0d1117&title_color=C77DFF&text_color=CDB4DB" height="165" alt="languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Abdullah-Mehdi&hide_border=true&background=0d1117&ring=9D4EDD&fire=E0AAFF&currStreakLabel=C77DFF&currStreakNum=E0AAFF&sideNums=CDB4DB&sideLabels=C77DFF&dates=8d7b9e" alt="streak" />
+<!-- streak card is fetched by snake.yml into the output branch because the
+     live service (streak-stats.demolab.com) responds too slowly for GitHub's
+     image proxy · requires the workflow to have run once -->
+<img src="https://raw.githubusercontent.com/Abdullah-Mehdi/Abdullah-Mehdi/output/github-streak.svg" alt="streak" />
 
 <br/><br/>
 

@@ -2,7 +2,7 @@ name: generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -20,6 +20,16 @@ jobs:
           github_user_name: Abdullah-Mehdi
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#9D4EDD&color_dots=#161b22,#2b1b47,#5A189A,#9D4EDD,#E0AAFF
+
+      # streak-stats.demolab.com takes 12-27s per request, which exceeds GitHub's
+      # image-proxy timeout, so the card never renders when embedded directly.
+      # Fetch it here (no timeout constraint) and serve it from the output branch.
+      - name: fetch streak card
+        run: |
+          curl -sf --retry 5 --retry-delay 15 --max-time 120 \
+            "https://streak-stats.demolab.com?user=Abdullah-Mehdi&hide_border=true&background=0d1117&ring=9D4EDD&fire=E0AAFF&currStreakLabel=C77DFF&currStreakNum=E0AAFF&sideNums=CDB4DB&sideLabels=C77DFF&dates=8d7b9e" \
+            -o dist/github-streak.svg
+          grep -q "Total Contributions" dist/github-streak.svg
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
