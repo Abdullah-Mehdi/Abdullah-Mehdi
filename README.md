@@ -52,7 +52,7 @@
 
 <br/><br/>
 
-<p><i>「 everything that lives is designed to end — and yet 」</i></p>
+<p><i>「 everything that lives is designed to end - and yet... 」</i></p>
 
 <p>☆ ⋆ ｡ ˚ ૮₍ ´｡ᵔ ᵕ ᵔ｡ ₎ა ˚ ｡ ⋆ ☆</p>
 
