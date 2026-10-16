@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A2b1b47%2C50%3A7B2CBF%2C100%3AE0AAFF&text=%E2%9C%A6%20%CB%9A%20%EF%BD%A1%20%E2%8B%86%20Abdullah%20%E2%8B%86%20%EF%BD%A1%20%CB%9A%20%E2%9C%A6&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="header" />
 
-<img src="https://raw.githubusercontent.com/Abdullah-Mehdi/Abdullah-Mehdi/main/AbdullahAli.jpg" alt="Abdullah Ali" width="180" />
-
 <br/><br/>
 
 <a href="https://github.com/Abdullah-Mehdi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&height=50&lines=software+engineer;ai+ethics+researcher;%E2%9C%A6+poetry+%C2%B7+philosophy+%C2%B7+stars+%E2%9C%A6;everything+ends+%E2%80%94+and+yet+%E2%98%86" alt="typing intro" /></a>
